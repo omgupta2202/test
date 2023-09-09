@@ -1,5 +1,0 @@
-{{#user}}
-Name: Om Gupta
-Skills: HTML, CSS, Python, C, C++, Django, Django Rest Framework
-Email: omgupta22022002@gmail.com
-{{/user}}
